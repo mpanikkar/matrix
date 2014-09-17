@@ -21,3 +21,5 @@ Matrix ER Diagram & Requirements
 15. Each account may have several personal or corporate lines attached to it. They are not required to have one of each before being able to add a second of either type
 
 **ER Diagram**
+
+![](https://github.com/asu-cis-355/matrix/blob/master/matrixERD.jpg)

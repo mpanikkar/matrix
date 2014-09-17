@@ -3,6 +3,7 @@ Matrix ER Diagram & Requirements
 **Overview**: This document describes the requirements for a database for a simple telecommunications company similar to AT&T. It only involves the telephone service rather than internet and cable. It includes customers, represenatives, call history, bills and lines which are split into corporate and personal lines.
 
 **Business Rules**
+
 1. Each customer has one representative that works with them. For customer we track customer ID, first name, last name and date of birth.
 2. Each representative can only work for one store at a time and for each representative we track representative ID, first name and last name.
 3. Every store must have at least one representative. For each store we track store ID, address, city and state.

@@ -4,6 +4,7 @@ Matrix Sample Insert Statements and Test Query
 **Insert Statements**
 
 insert into store (store_street, store_city, store_state)
+
 	VALUES ('123 Maplestreet', 'Scottsdale', 'AZ');
 
 insert into representative (rep_firstname, rep_lastname, store_id)

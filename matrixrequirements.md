@@ -8,13 +8,13 @@ Matrix ER Diagram & Requirements
 2. Each representative can only work for one store at a time and for each representative we track representative ID, first name and last name.
 3. Every store must have at least one representative. For each store we track store ID, address, city and state.
 4. A representative can work with many different customers.
-5. Each customer must have at least one call on record. For each call we keep track of call ID, time of call, duration, location of receiver and location from where the call originated.
-6. Each customer must have at least one bill. For bill we track bill ID, total price and date
+5. Each customer can have multiple call on record or zero calls on record. For each call we keep track of call ID, time of call, duration, location of receiver and location from where the call originated.
+6. Each customer can have multiple bills or zero bills on record. For bill we track bill ID, total price and date
 7. Each customer can have multiple lines connected to it. For Lines we track line ID and telephone number.
-8.Each line is a subset of a line type.
+8. Each line is a subset of a line type.
 9. For each line type, we track the type id, price, data limit, talk limit and text limit.
 10. Lines are unique to each customer, they cannot be shared between different customers.
-11. Each customer may have several lines attached to him/her. He/she will be allowed to add lines at any point of time
+11. Each customer may have several lines of the same type attached to him/her. He/she will be allowed to add lines at any point of time
 
 **ER Diagram**
 

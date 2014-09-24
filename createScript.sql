@@ -60,10 +60,12 @@ primary key(type_id)
 -- Line Table
 create table line(
 line_id		serial	not null	unique,
-line_number	int	not null,
+line_number	bigint	not null,
 type_id		int	not null,
+cust_id		int	not null,
 primary key(line_id),
-foreign key(type_id) references line_type(type_id)
+foreign key(type_id) references line_type(type_id),
+foreign key(cust_id) references customer(cust_id)
 );
 
 

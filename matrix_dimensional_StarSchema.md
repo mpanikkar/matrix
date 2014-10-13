@@ -12,4 +12,4 @@ Matrix Dimensional DB Schema (Telecommunication)
 
 **SQL Create Statements File Link**
 
-[SQL statements](https://github.com/asu-cis-355/matrix/blob/master/matrix_dimension_SQL.sql)
+[SQL statements](matrix_dimensional_SQL.sql)

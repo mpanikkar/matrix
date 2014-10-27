@@ -55,10 +55,8 @@ CREATE TABLE line_dim (
 	line_key				serial		NOT NULL	PRIMARY KEY,
 	line_number				bigint,
 line_description				char(30),
-line_price					int,
-line_datalimit					int,
-line_talklimit					int,
-line_textlimit					int
+line_pricePerMinute				int,
+line_talklimit					int
 );	
 
 -- Create the Call Log Fact table

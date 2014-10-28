@@ -1,4 +1,4 @@
-Matrix Dimensional DB Schema (Telecommunication)
+Matrix Dimensional Periodic Snapshot (Telecommunication)
 ===================================================
 
 

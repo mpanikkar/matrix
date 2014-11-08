@@ -1,10 +1,14 @@
-matrix
+Team Matrix
 ======
 
-repo for telecom team
+Repository for Telecommunications Chapter
 
 Hi Everyone!
-Team Members:
+
+**Team Members:**
+
 1. Alex Neumann
+
 2. Lim Zhang Yi
+
 3. Lucas Cruz

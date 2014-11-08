@@ -7,9 +7,9 @@ Matrix Dimensional DB Schema (Telecommunication)
 
 **Star Schema**
 
-![](https://github.com/asu-cis-355/matrix/blob/master/matrixStarSchema.jpg)
+![](https://github.com/asu-cis-355/matrix/blob/master/DimensionalModel/Requirements%201/matrix_dimensional1_starschema.jpg)
 
 
 **SQL Create Statements File Link**
 
-[SQL statements](matrix_dimensional_SQL.sql)
+[SQL Creaate statements for first Dimensional Model](Matrix_Dimensional1_create.sql)

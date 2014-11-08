@@ -18,4 +18,4 @@ Matrix ER Diagram & Requirements
 
 **ER Diagram**
 
-![](https://github.com/asu-cis-355/matrix/blob/master/matrixERD.jpg)
+![](https://github.com/asu-cis-355/matrix/blob/master/ER-Diagram-Requirements/matrixERD.jpg)
